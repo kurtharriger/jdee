@@ -7,7 +7,7 @@
 
   <!-- add in the contribs (add ant-contrib-VERSION.jar) to CLASSPATH -->
   <taskdef resource="net/sf/antcontrib/antlib.xml"> 
-    <classpath path="java/lib/ant-contrib-1.0b3.jar"/> 
+    <classpath path="ant-lib/ant-contrib-1.0b3.jar"/> 
   </taskdef>
 
 
